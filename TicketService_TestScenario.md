@@ -55,8 +55,6 @@ SYSTEM TESTING:
 
 System testing will focus on testing the functional requirements through the test scenarios designed. Testing techniques are selected based on the scenarios concluded for the application and they encompass Active testing, Agile testing, Age testing, Assertion testing, All – pair testing, Basis path testing.
 
-<img src="media/image2.png" width="623" height="888" />
-
 TEST SCENARIO:
 ==============
 
